@@ -1,0 +1,27 @@
+{
+  "name": "Fairlight-cdp",
+  "version": "1.0.0",
+  "description": "A JavaScript-based Collateralized Debt Position (CDP) protocol for blockchain financial systems.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Larkhell/Fairlight-cdp"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "blockchain",
+    "finance",
+    "cdp",
+    "collateralized-debt-position",
+    "cryptocurrency"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bignumber.js": "^9.1.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
